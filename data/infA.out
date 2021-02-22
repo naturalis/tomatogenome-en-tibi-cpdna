@@ -1,0 +1,367 @@
+BLASTN 2.11.0+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+RID: 333STZEV016
+
+
+Database: Nucleotide collection (nt)
+           67,819,645 sequences; 387,457,630,076 total letters
+Query= infA
+
+Length=105
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+KY887589.1 Solanum pennellii chloroplast, complete genome          190     2e-48  100%      
+KY887588.1 Solanum lycopersicum chloroplast, complete genome       190     2e-48  100%      
+KY887587.1 Solanum lycopersicum chloroplast, complete genome       190     2e-48  100%      
+KP117027.1 Solanum pimpinellifolium isolate TS-415 chloroplast...  190     2e-48  100%      
+KP117026.1 Solanum peruvianum isolate TS-404 chloroplast, comp...  190     2e-48  100%      
+KP117025.1 Solanum neorickii isolate TS-146 chloroplast, compl...  190     2e-48  100%      
+KP117024.1 Solanum lycopersicum isolate TS-321 chloroplast, co...  190     2e-48  100%      
+KP117023.1 Solanum habrochaites isolate TS-407 chloroplast, co...  190     2e-48  100%      
+KP117022.1 Solanum galapagense isolate TS-208 chloroplast, com...  190     2e-48  100%      
+KP117021.1 Solanum chilense isolate TS-408 chloroplast, comple...  190     2e-48  100%      
+KP117020.1 Solanum cheesmaniae isolate TS-199 chloroplast, com...  190     2e-48  100%      
+KP331414.1 Solanum lycopersicum chloroplast, complete genome       190     2e-48  100%      
+HG975525.1 Solanum lycopersicum chloroplast, complete genome       190     2e-48  100%      
+HG975452.1 Solanum pennellii chloroplast, complete genome          190     2e-48  100%      
+AM087200.3 Solanum lycopersicum complete chloroplast genome, c...  190     2e-48  100%      
+AF347658.1 Lycopersicon esculentum translation initiation fact...  190     2e-48  100%      
+DQ347959.1 Solanum lycopersicum cultivar LA3023 chloroplast, c...  190     2e-48  100%      
+AF347664.1 Lycopersicon esculentum translation initiation fact...  77.0    3e-14  83%       
+
+ALIGNMENTS
+>KY887589.1 Solanum pennellii chloroplast, complete genome
+Length=155254
+
+ Score = 190 bits (210),  Expect = 2e-48
+ Identities = 105/105 (100%), Gaps = 0/105 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81588  ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  81529
+
+Query  61     GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  105
+              |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81528  GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  81484
+
+
+>KY887588.1 Solanum lycopersicum chloroplast, complete genome
+Length=155446
+
+ Score = 190 bits (210),  Expect = 2e-48
+ Identities = 105/105 (100%), Gaps = 0/105 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81753  ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  81694
+
+Query  61     GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  105
+              |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81693  GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  81649
+
+
+>KY887587.1 Solanum lycopersicum chloroplast, complete genome
+Length=155460
+
+ Score = 190 bits (210),  Expect = 2e-48
+ Identities = 105/105 (100%), Gaps = 0/105 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81765  ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  81706
+
+Query  61     GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  105
+              |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81705  GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  81661
+
+
+>KP117027.1 Solanum pimpinellifolium isolate TS-415 chloroplast, complete 
+genome
+Length=155442
+
+ Score = 190 bits (210),  Expect = 2e-48
+ Identities = 105/105 (100%), Gaps = 0/105 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81752  ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  81693
+
+Query  61     GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  105
+              |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81692  GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  81648
+
+
+>KP117026.1 Solanum peruvianum isolate TS-404 chloroplast, complete genome
+Length=155561
+
+ Score = 190 bits (210),  Expect = 2e-48
+ Identities = 105/105 (100%), Gaps = 0/105 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81814  ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  81755
+
+Query  61     GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  105
+              |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81754  GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  81710
+
+
+>KP117025.1 Solanum neorickii isolate TS-146 chloroplast, complete genome
+Length=155513
+
+ Score = 190 bits (210),  Expect = 2e-48
+ Identities = 105/105 (100%), Gaps = 0/105 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81819  ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  81760
+
+Query  61     GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  105
+              |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81759  GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  81715
+
+
+>KP117024.1 Solanum lycopersicum isolate TS-321 chloroplast, complete genome
+Length=155452
+
+ Score = 190 bits (210),  Expect = 2e-48
+ Identities = 105/105 (100%), Gaps = 0/105 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81759  ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  81700
+
+Query  61     GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  105
+              |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81699  GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  81655
+
+
+>KP117023.1 Solanum habrochaites isolate TS-407 chloroplast, complete genome
+Length=155465
+
+ Score = 190 bits (210),  Expect = 2e-48
+ Identities = 105/105 (100%), Gaps = 0/105 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81772  ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  81713
+
+Query  61     GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  105
+              |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81712  GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  81668
+
+
+>KP117022.1 Solanum galapagense isolate TS-208 chloroplast, complete genome
+Length=155474
+
+ Score = 190 bits (210),  Expect = 2e-48
+ Identities = 105/105 (100%), Gaps = 0/105 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81758  ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  81699
+
+Query  61     GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  105
+              |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81698  GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  81654
+
+
+>KP117021.1 Solanum chilense isolate TS-408 chloroplast, complete genome
+Length=155528
+
+ Score = 190 bits (210),  Expect = 2e-48
+ Identities = 105/105 (100%), Gaps = 0/105 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81815  ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  81756
+
+Query  61     GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  105
+              |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81755  GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  81711
+
+
+>KP117020.1 Solanum cheesmaniae isolate TS-199 chloroplast, complete genome
+Length=155520
+
+ Score = 190 bits (210),  Expect = 2e-48
+ Identities = 105/105 (100%), Gaps = 0/105 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81763  ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  81704
+
+Query  61     GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  105
+              |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81703  GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  81659
+
+
+>KP331414.1 Solanum lycopersicum chloroplast, complete genome
+Length=155605
+
+ Score = 190 bits (210),  Expect = 2e-48
+ Identities = 105/105 (100%), Gaps = 0/105 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81689  ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  81630
+
+Query  61     GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  105
+              |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81629  GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  81585
+
+
+>HG975525.1 Solanum lycopersicum chloroplast, complete genome
+Length=155461
+
+ Score = 190 bits (210),  Expect = 2e-48
+ Identities = 105/105 (100%), Gaps = 0/105 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81772  ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  81713
+
+Query  61     GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  105
+              |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81712  GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  81668
+
+
+>HG975452.1 Solanum pennellii chloroplast, complete genome
+Length=155381
+
+ Score = 190 bits (210),  Expect = 2e-48
+ Identities = 105/105 (100%), Gaps = 0/105 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81592  ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  81533
+
+Query  61     GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  105
+              |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81532  GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  81488
+
+
+>AM087200.3 Solanum lycopersicum complete chloroplast genome, cultivar IPA-6
+Length=155461
+
+ Score = 190 bits (210),  Expect = 2e-48
+ Identities = 105/105 (100%), Gaps = 0/105 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81772  ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  81713
+
+Query  61     GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  105
+              |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81712  GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  81668
+
+
+>AF347658.1 Lycopersicon esculentum translation initiation factor IF1 (infA) 
+chloroplast pseudogene, complete sequence
+Length=324
+
+ Score = 190 bits (210),  Expect = 2e-48
+ Identities = 105/105 (100%), Gaps = 0/105 (0%)
+ Strand=Plus/Plus
+
+Query  1    ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  109  ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  168
+
+Query  61   GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  105
+            |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  169  GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  213
+
+
+>DQ347959.1 Solanum lycopersicum cultivar LA3023 chloroplast, complete genome
+Length=155461
+
+ Score = 190 bits (210),  Expect = 2e-48
+ Identities = 105/105 (100%), Gaps = 0/105 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81769  ATACAGATACTGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAA  81710
+
+Query  61     GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  105
+              |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  81709  GGACATATAATTTATCGACTCCACAACAAAGATTTGAAGGATTAG  81665
+
+
+>AF347664.1 Lycopersicon esculentum translation initiation factor IF1 (infA) 
+mRNA, complete cds; nuclear gene for chloroplast product
+Length=990
+
+ Score = 77.0 bits (84),  Expect = 3e-14
+ Identities = 60/72 (83%), Gaps = 0/72 (0%)
+ Strand=Plus/Plus
+
+Query  11   TGCCAGGAGATAGAGTCAAAATTGAAGTAAGTCCTTATGATTCAACCAAAGGACATATAA  70
+            |||| ||||| ||||||||||| || ||||||| ||||||||| |  |||||||  || |
+Sbjct  637  TGCCTGGAGACAGAGTCAAAATCGAGGTAAGTCGTTATGATTCCAGTAAAGGACGCATCA  696
+
+Query  71   TTTATCGACTCC  82
+            ||||| ||||||
+Sbjct  697  TTTATAGACTCC  708
+
+
+  Database: Nucleotide collection (nt)
+    Posted date:  Feb 15, 2021  5:23 PM
+  Number of letters in database: 49,176,766
+  Number of sequences in database:  25,031
+
+Lambda      K        H
+   0.634    0.408    0.912 
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+Matrix: blastn matrix:2 -3
+Gap Penalties: Existence: 5, Extension: 2
+Number of Sequences: 25031
+Number of Hits to DB: 3709
+Number of extensions: 11
+Number of successful extensions: 11
+Number of sequences better than 0.001: 1
+Number of HSP's better than 0.001 without gapping: 0
+Number of HSP's gapped: 11
+Number of HSP's successfully gapped: 1
+Length of query: 105
+Length of database: 49176766
+Length adjustment: 25
+Effective length of query: 80
+Effective length of database: 48550991
+Effective search space: 3884079280
+Effective search space used: 3884079280
+A: 0
+X1: 22 (20.1 bits)
+X2: 33 (29.8 bits)
+X3: 110 (99.2 bits)
+S1: 28 (26.5 bits)
+S2: 45 (41.9 bits)
+
+

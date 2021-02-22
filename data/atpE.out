@@ -1,0 +1,235 @@
+BLASTN 2.11.0+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+RID: 333RUXJ3013
+
+
+Database: Nucleotide collection (nt)
+           67,819,645 sequences; 387,457,630,076 total letters
+Query= atpE
+
+Length=402
+
+
+                                                                   Score     E      Max
+Sequences producing significant alignments:                       (Bits)  Value   Ident
+
+KP331414.1 Solanum lycopersicum chloroplast, complete genome       726     0.0     100%      
+HG975525.1 Solanum lycopersicum chloroplast, complete genome       726     0.0     100%      
+HG975452.1 Solanum pennellii chloroplast, complete genome          726     0.0     100%      
+AK247143.1 Solanum lycopersicum cDNA, clone: LEFL1043AF09, HTC...  726     0.0     100%      
+AK329883.1 Solanum lycopersicum cDNA, clone: LEFL3160A04, HTC ...  475     1e-133  100%      
+
+ALIGNMENTS
+>KP331414.1 Solanum lycopersicum chloroplast, complete genome
+Length=155605
+
+ Score = 726 bits (804),  Expect = 0.0
+ Identities = 402/402 (100%), Gaps = 0/402 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGACCTTAAATCTTAGTGTACTGACCCCTAATCGAATTGTTTGGGATTCAGAAGTGGAA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54295  ATGACCTTAAATCTTAGTGTACTGACCCCTAATCGAATTGTTTGGGATTCAGAAGTGGAA  54236
+
+Query  61     GAAATTGTTTTATCTACTAATAGTGGTCAAATTGGCATATTACCAAATCACGCCCCTATT  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54235  GAAATTGTTTTATCTACTAATAGTGGTCAAATTGGCATATTACCAAATCACGCCCCTATT  54176
+
+Query  121    GCCACAGCTGTAGATATAGGGATTTTGAGAATACGCCTTAACGACCAATGGTTAACGATG  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54175  GCCACAGCTGTAGATATAGGGATTTTGAGAATACGCCTTAACGACCAATGGTTAACGATG  54116
+
+Query  181    GCTCTGATGGGTGGTTTTGCTAGAATAGGAAATAATGAGATCACTGTTTTAGTAAATGAT  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54115  GCTCTGATGGGTGGTTTTGCTAGAATAGGAAATAATGAGATCACTGTTTTAGTAAATGAT  54056
+
+Query  241    GCGGAGAAGGGTAGTGACATTAATCCACAAGAAGCTCAGCAAACTCTTGAAATAGCGGAA  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54055  GCGGAGAAGGGTAGTGACATTAATCCACAAGAAGCTCAGCAAACTCTTGAAATAGCGGAA  53996
+
+Query  301    GCTAATGTGAAAAAGGCTGAAGGAAGGAGACAAAAAATTGAGGCAAATCTAGCTCTCCGA  360
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  53995  GCTAATGTGAAAAAGGCTGAAGGAAGGAGACAAAAAATTGAGGCAAATCTAGCTCTCCGA  53936
+
+Query  361    CGAGCTAGAACACGGGTGGAGGCTAGCAATCCGATTTCATAA  402
+              ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  53935  CGAGCTAGAACACGGGTGGAGGCTAGCAATCCGATTTCATAA  53894
+
+
+>HG975525.1 Solanum lycopersicum chloroplast, complete genome
+Length=155461
+
+ Score = 726 bits (804),  Expect = 0.0
+ Identities = 402/402 (100%), Gaps = 0/402 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGACCTTAAATCTTAGTGTACTGACCCCTAATCGAATTGTTTGGGATTCAGAAGTGGAA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54378  ATGACCTTAAATCTTAGTGTACTGACCCCTAATCGAATTGTTTGGGATTCAGAAGTGGAA  54319
+
+Query  61     GAAATTGTTTTATCTACTAATAGTGGTCAAATTGGCATATTACCAAATCACGCCCCTATT  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54318  GAAATTGTTTTATCTACTAATAGTGGTCAAATTGGCATATTACCAAATCACGCCCCTATT  54259
+
+Query  121    GCCACAGCTGTAGATATAGGGATTTTGAGAATACGCCTTAACGACCAATGGTTAACGATG  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54258  GCCACAGCTGTAGATATAGGGATTTTGAGAATACGCCTTAACGACCAATGGTTAACGATG  54199
+
+Query  181    GCTCTGATGGGTGGTTTTGCTAGAATAGGAAATAATGAGATCACTGTTTTAGTAAATGAT  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54198  GCTCTGATGGGTGGTTTTGCTAGAATAGGAAATAATGAGATCACTGTTTTAGTAAATGAT  54139
+
+Query  241    GCGGAGAAGGGTAGTGACATTAATCCACAAGAAGCTCAGCAAACTCTTGAAATAGCGGAA  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54138  GCGGAGAAGGGTAGTGACATTAATCCACAAGAAGCTCAGCAAACTCTTGAAATAGCGGAA  54079
+
+Query  301    GCTAATGTGAAAAAGGCTGAAGGAAGGAGACAAAAAATTGAGGCAAATCTAGCTCTCCGA  360
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54078  GCTAATGTGAAAAAGGCTGAAGGAAGGAGACAAAAAATTGAGGCAAATCTAGCTCTCCGA  54019
+
+Query  361    CGAGCTAGAACACGGGTGGAGGCTAGCAATCCGATTTCATAA  402
+              ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54018  CGAGCTAGAACACGGGTGGAGGCTAGCAATCCGATTTCATAA  53977
+
+
+>HG975452.1 Solanum pennellii chloroplast, complete genome
+Length=155381
+
+ Score = 726 bits (804),  Expect = 0.0
+ Identities = 402/402 (100%), Gaps = 0/402 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGACCTTAAATCTTAGTGTACTGACCCCTAATCGAATTGTTTGGGATTCAGAAGTGGAA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54188  ATGACCTTAAATCTTAGTGTACTGACCCCTAATCGAATTGTTTGGGATTCAGAAGTGGAA  54129
+
+Query  61     GAAATTGTTTTATCTACTAATAGTGGTCAAATTGGCATATTACCAAATCACGCCCCTATT  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54128  GAAATTGTTTTATCTACTAATAGTGGTCAAATTGGCATATTACCAAATCACGCCCCTATT  54069
+
+Query  121    GCCACAGCTGTAGATATAGGGATTTTGAGAATACGCCTTAACGACCAATGGTTAACGATG  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54068  GCCACAGCTGTAGATATAGGGATTTTGAGAATACGCCTTAACGACCAATGGTTAACGATG  54009
+
+Query  181    GCTCTGATGGGTGGTTTTGCTAGAATAGGAAATAATGAGATCACTGTTTTAGTAAATGAT  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54008  GCTCTGATGGGTGGTTTTGCTAGAATAGGAAATAATGAGATCACTGTTTTAGTAAATGAT  53949
+
+Query  241    GCGGAGAAGGGTAGTGACATTAATCCACAAGAAGCTCAGCAAACTCTTGAAATAGCGGAA  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  53948  GCGGAGAAGGGTAGTGACATTAATCCACAAGAAGCTCAGCAAACTCTTGAAATAGCGGAA  53889
+
+Query  301    GCTAATGTGAAAAAGGCTGAAGGAAGGAGACAAAAAATTGAGGCAAATCTAGCTCTCCGA  360
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  53888  GCTAATGTGAAAAAGGCTGAAGGAAGGAGACAAAAAATTGAGGCAAATCTAGCTCTCCGA  53829
+
+Query  361    CGAGCTAGAACACGGGTGGAGGCTAGCAATCCGATTTCATAA  402
+              ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  53828  CGAGCTAGAACACGGGTGGAGGCTAGCAATCCGATTTCATAA  53787
+
+
+>AK247143.1 Solanum lycopersicum cDNA, clone: LEFL1043AF09, HTC in leaf
+Length=2482
+
+ Score = 726 bits (804),  Expect = 0.0
+ Identities = 402/402 (100%), Gaps = 0/402 (0%)
+ Strand=Plus/Plus
+
+Query  1     ATGACCTTAAATCTTAGTGTACTGACCCCTAATCGAATTGTTTGGGATTCAGAAGTGGAA  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1944  ATGACCTTAAATCTTAGTGTACTGACCCCTAATCGAATTGTTTGGGATTCAGAAGTGGAA  2003
+
+Query  61    GAAATTGTTTTATCTACTAATAGTGGTCAAATTGGCATATTACCAAATCACGCCCCTATT  120
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2004  GAAATTGTTTTATCTACTAATAGTGGTCAAATTGGCATATTACCAAATCACGCCCCTATT  2063
+
+Query  121   GCCACAGCTGTAGATATAGGGATTTTGAGAATACGCCTTAACGACCAATGGTTAACGATG  180
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2064  GCCACAGCTGTAGATATAGGGATTTTGAGAATACGCCTTAACGACCAATGGTTAACGATG  2123
+
+Query  181   GCTCTGATGGGTGGTTTTGCTAGAATAGGAAATAATGAGATCACTGTTTTAGTAAATGAT  240
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2124  GCTCTGATGGGTGGTTTTGCTAGAATAGGAAATAATGAGATCACTGTTTTAGTAAATGAT  2183
+
+Query  241   GCGGAGAAGGGTAGTGACATTAATCCACAAGAAGCTCAGCAAACTCTTGAAATAGCGGAA  300
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2184  GCGGAGAAGGGTAGTGACATTAATCCACAAGAAGCTCAGCAAACTCTTGAAATAGCGGAA  2243
+
+Query  301   GCTAATGTGAAAAAGGCTGAAGGAAGGAGACAAAAAATTGAGGCAAATCTAGCTCTCCGA  360
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2244  GCTAATGTGAAAAAGGCTGAAGGAAGGAGACAAAAAATTGAGGCAAATCTAGCTCTCCGA  2303
+
+Query  361   CGAGCTAGAACACGGGTGGAGGCTAGCAATCCGATTTCATAA  402
+             ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2304  CGAGCTAGAACACGGGTGGAGGCTAGCAATCCGATTTCATAA  2345
+
+
+>AK329883.1 Solanum lycopersicum cDNA, clone: LEFL3160A04, HTC in root
+Length=1532
+
+ Score = 475 bits (526),  Expect = 1e-133
+ Identities = 263/263 (100%), Gaps = 0/263 (0%)
+ Strand=Plus/Plus
+
+Query  140  GGATTTTGAGAATACGCCTTAACGACCAATGGTTAACGATGGCTCTGATGGGTGGTTTTG  199
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GGATTTTGAGAATACGCCTTAACGACCAATGGTTAACGATGGCTCTGATGGGTGGTTTTG  60
+
+Query  200  CTAGAATAGGAAATAATGAGATCACTGTTTTAGTAAATGATGCGGAGAAGGGTAGTGACA  259
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61   CTAGAATAGGAAATAATGAGATCACTGTTTTAGTAAATGATGCGGAGAAGGGTAGTGACA  120
+
+Query  260  TTAATCCACAAGAAGCTCAGCAAACTCTTGAAATAGCGGAAGCTAATGTGAAAAAGGCTG  319
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  121  TTAATCCACAAGAAGCTCAGCAAACTCTTGAAATAGCGGAAGCTAATGTGAAAAAGGCTG  180
+
+Query  320  AAGGAAGGAGACAAAAAATTGAGGCAAATCTAGCTCTCCGACGAGCTAGAACACGGGTGG  379
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  181  AAGGAAGGAGACAAAAAATTGAGGCAAATCTAGCTCTCCGACGAGCTAGAACACGGGTGG  240
+
+Query  380  AGGCTAGCAATCCGATTTCATAA  402
+            |||||||||||||||||||||||
+Sbjct  241  AGGCTAGCAATCCGATTTCATAA  263
+
+
+  Database: Nucleotide collection (nt)
+    Posted date:  Feb 15, 2021  5:23 PM
+  Number of letters in database: 49,176,766
+  Number of sequences in database:  25,031
+
+Lambda      K        H
+   0.634    0.408    0.912 
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+Matrix: blastn matrix:2 -3
+Gap Penalties: Existence: 5, Extension: 2
+Number of Sequences: 25031
+Number of Hits to DB: 2421
+Number of extensions: 9
+Number of successful extensions: 9
+Number of sequences better than 0.001: 0
+Number of HSP's better than 0.001 without gapping: 0
+Number of HSP's gapped: 9
+Number of HSP's successfully gapped: 0
+Length of query: 402
+Length of database: 49176766
+Length adjustment: 27
+Effective length of query: 375
+Effective length of database: 48500929
+Effective search space: 18187848375
+Effective search space used: 18187848375
+A: 0
+X1: 22 (20.1 bits)
+X2: 33 (29.8 bits)
+X3: 110 (99.2 bits)
+S1: 28 (26.5 bits)
+S2: 48 (44.6 bits)
+
+

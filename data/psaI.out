@@ -1,0 +1,191 @@
+BLASTN 2.11.0+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+RID: 333RYSJT013
+
+
+Database: Nucleotide collection (nt)
+           67,819,645 sequences; 387,457,630,076 total letters
+Query= psaI
+
+Length=111
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+KY887589.1 Solanum pennellii chloroplast, complete genome          176     1e-45  100%      
+KY887588.1 Solanum lycopersicum chloroplast, complete genome       176     1e-45  100%      
+KY887587.1 Solanum lycopersicum chloroplast, complete genome       176     1e-45  100%      
+KP331414.1 Solanum lycopersicum chloroplast, complete genome       176     1e-45  100%      
+HG975525.1 Solanum lycopersicum chloroplast, complete genome       176     1e-45  100%      
+HG975452.1 Solanum pennellii chloroplast, complete genome          176     1e-45  100%      
+AM087200.3 Solanum lycopersicum complete chloroplast genome, c...  176     1e-45  100%      
+CU928481.5 S.lycopersicum DNA sequence from clone LE_HBa-255N2...  59.0    2e-10  100%      
+
+ALIGNMENTS
+>KY887589.1 Solanum pennellii chloroplast, complete genome
+Length=155254
+
+ Score = 176 bits (194),  Expect = 1e-45
+ Identities = 111/111 (100%), Gaps = 0/111 (0%)
+ Strand=Plus/Plus
+
+Query  1      ATGACAAATTTGAACCTTCCATCTATTTTTGTGCCGTTAGTAGGCCTAGTCTTTCCGGCA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  60954  ATGACAAATTTGAACCTTCCATCTATTTTTGTGCCGTTAGTAGGCCTAGTCTTTCCGGCA  61013
+
+Query  61     ATTGCAATGGCTTCTTTATTTCTTCATGTTCaaaaaaaCAAGATTGTTTAG  111
+              |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61014  ATTGCAATGGCTTCTTTATTTCTTCATGTTCAAAAAAACAAGATTGTTTAG  61064
+
+
+>KY887588.1 Solanum lycopersicum chloroplast, complete genome
+Length=155446
+
+ Score = 176 bits (194),  Expect = 1e-45
+ Identities = 111/111 (100%), Gaps = 0/111 (0%)
+ Strand=Plus/Plus
+
+Query  1      ATGACAAATTTGAACCTTCCATCTATTTTTGTGCCGTTAGTAGGCCTAGTCTTTCCGGCA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61131  ATGACAAATTTGAACCTTCCATCTATTTTTGTGCCGTTAGTAGGCCTAGTCTTTCCGGCA  61190
+
+Query  61     ATTGCAATGGCTTCTTTATTTCTTCATGTTCaaaaaaaCAAGATTGTTTAG  111
+              |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61191  ATTGCAATGGCTTCTTTATTTCTTCATGTTCAAAAAAACAAGATTGTTTAG  61241
+
+
+>KY887587.1 Solanum lycopersicum chloroplast, complete genome
+Length=155460
+
+ Score = 176 bits (194),  Expect = 1e-45
+ Identities = 111/111 (100%), Gaps = 0/111 (0%)
+ Strand=Plus/Plus
+
+Query  1      ATGACAAATTTGAACCTTCCATCTATTTTTGTGCCGTTAGTAGGCCTAGTCTTTCCGGCA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61143  ATGACAAATTTGAACCTTCCATCTATTTTTGTGCCGTTAGTAGGCCTAGTCTTTCCGGCA  61202
+
+Query  61     ATTGCAATGGCTTCTTTATTTCTTCATGTTCaaaaaaaCAAGATTGTTTAG  111
+              |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61203  ATTGCAATGGCTTCTTTATTTCTTCATGTTCAAAAAAACAAGATTGTTTAG  61253
+
+
+>KP331414.1 Solanum lycopersicum chloroplast, complete genome
+Length=155605
+
+ Score = 176 bits (194),  Expect = 1e-45
+ Identities = 111/111 (100%), Gaps = 0/111 (0%)
+ Strand=Plus/Plus
+
+Query  1      ATGACAAATTTGAACCTTCCATCTATTTTTGTGCCGTTAGTAGGCCTAGTCTTTCCGGCA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61066  ATGACAAATTTGAACCTTCCATCTATTTTTGTGCCGTTAGTAGGCCTAGTCTTTCCGGCA  61125
+
+Query  61     ATTGCAATGGCTTCTTTATTTCTTCATGTTCaaaaaaaCAAGATTGTTTAG  111
+              |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61126  ATTGCAATGGCTTCTTTATTTCTTCATGTTCAAAAAAACAAGATTGTTTAG  61176
+
+
+>HG975525.1 Solanum lycopersicum chloroplast, complete genome
+Length=155461
+
+ Score = 176 bits (194),  Expect = 1e-45
+ Identities = 111/111 (100%), Gaps = 0/111 (0%)
+ Strand=Plus/Plus
+
+Query  1      ATGACAAATTTGAACCTTCCATCTATTTTTGTGCCGTTAGTAGGCCTAGTCTTTCCGGCA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61149  ATGACAAATTTGAACCTTCCATCTATTTTTGTGCCGTTAGTAGGCCTAGTCTTTCCGGCA  61208
+
+Query  61     ATTGCAATGGCTTCTTTATTTCTTCATGTTCaaaaaaaCAAGATTGTTTAG  111
+              |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61209  ATTGCAATGGCTTCTTTATTTCTTCATGTTCAAAAAAACAAGATTGTTTAG  61259
+
+
+>HG975452.1 Solanum pennellii chloroplast, complete genome
+Length=155381
+
+ Score = 176 bits (194),  Expect = 1e-45
+ Identities = 111/111 (100%), Gaps = 0/111 (0%)
+ Strand=Plus/Plus
+
+Query  1      ATGACAAATTTGAACCTTCCATCTATTTTTGTGCCGTTAGTAGGCCTAGTCTTTCCGGCA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  60958  ATGACAAATTTGAACCTTCCATCTATTTTTGTGCCGTTAGTAGGCCTAGTCTTTCCGGCA  61017
+
+Query  61     ATTGCAATGGCTTCTTTATTTCTTCATGTTCaaaaaaaCAAGATTGTTTAG  111
+              |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61018  ATTGCAATGGCTTCTTTATTTCTTCATGTTCAAAAAAACAAGATTGTTTAG  61068
+
+
+>AM087200.3 Solanum lycopersicum complete chloroplast genome, cultivar IPA-6
+Length=155461
+
+ Score = 176 bits (194),  Expect = 1e-45
+ Identities = 111/111 (100%), Gaps = 0/111 (0%)
+ Strand=Plus/Plus
+
+Query  1      ATGACAAATTTGAACCTTCCATCTATTTTTGTGCCGTTAGTAGGCCTAGTCTTTCCGGCA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61149  ATGACAAATTTGAACCTTCCATCTATTTTTGTGCCGTTAGTAGGCCTAGTCTTTCCGGCA  61208
+
+Query  61     ATTGCAATGGCTTCTTTATTTCTTCATGTTCaaaaaaaCAAGATTGTTTAG  111
+              |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  61209  ATTGCAATGGCTTCTTTATTTCTTCATGTTCAAAAAAACAAGATTGTTTAG  61259
+
+
+>CU928481.5 S.lycopersicum DNA sequence from clone LE_HBa-255N21, complete 
+sequence
+Length=108986
+
+ Score = 59.0 bits (64),  Expect = 2e-10
+ Identities = 46/46 (100%), Gaps = 0/46 (0%)
+ Strand=Plus/Plus
+
+Query  66     AATGGCTTCTTTATTTCTTCATGTTCaaaaaaaCAAGATTGTTTAG  111
+              ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  83047  AATGGCTTCTTTATTTCTTCATGTTCAAAAAAACAAGATTGTTTAG  83092
+
+
+  Database: Nucleotide collection (nt)
+    Posted date:  Feb 15, 2021  5:23 PM
+  Number of letters in database: 0
+  Number of sequences in database:  0
+
+Lambda      K        H
+   0.634    0.408    0.912 
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+Matrix: blastn matrix:2 -3
+Gap Penalties: Existence: 5, Extension: 2
+Number of Sequences: 0
+Number of Hits to DB: 0
+Number of extensions: 0
+Number of successful extensions: 0
+Number of sequences better than 0.001: 0
+Number of HSP's better than 0.001 without gapping: 0
+Number of HSP's gapped: 0
+Number of HSP's successfully gapped: 0
+Length of query: 111
+Length of database: 0
+Length adjustment: 10
+Effective length of query: 101
+Effective length of database: 0
+Effective search space: 55146
+Effective search space used: 55146
+A: 0
+X1: 22 (20.1 bits)
+X2: 33 (29.8 bits)
+X3: 110 (99.2 bits)
+S1: 28 (26.5 bits)
+S2: 28 (26.5 bits)
+
+

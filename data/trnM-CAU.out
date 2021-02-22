@@ -1,0 +1,153 @@
+BLASTN 2.11.0+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+RID: 333R3558013
+
+
+Database: Nucleotide collection (nt)
+           67,819,645 sequences; 387,457,630,076 total letters
+Query= trnM-CAU
+
+Length=73
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+KP331414.1 Solanum lycopersicum chloroplast, complete genome       132     2e-31  100%      
+HG975525.1 Solanum lycopersicum chloroplast, complete genome       132     2e-31  100%      
+HG975452.1 Solanum pennellii chloroplast, complete genome          132     2e-31  100%      
+AK329883.1 Solanum lycopersicum cDNA, clone: LEFL3160A04, HTC ...  132     2e-31  100%      
+
+ALIGNMENTS
+>KP331414.1 Solanum lycopersicum chloroplast, complete genome
+Length=155605
+
+ Score = 132 bits (146),  Expect = 2e-31
+ Identities = 73/73 (100%), Gaps = 0/73 (0%)
+ Strand=Plus/Plus
+
+Query  1      ACCTACTTAACTCAGTGGTTAGAGTACTGCTTTCATACGGCGGGAGTCATTGGTTCAAAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  53599  ACCTACTTAACTCAGTGGTTAGAGTACTGCTTTCATACGGCGGGAGTCATTGGTTCAAAT  53658
+
+Query  61     CCAATAGTAGGTA  73
+              |||||||||||||
+Sbjct  53659  CCAATAGTAGGTA  53671
+
+
+ Score = 51.8 bits (56),  Expect = 6e-07
+ Identities = 48/60 (80%), Gaps = 1/60 (2%)
+ Strand=Plus/Plus
+
+Query  7      TTAACTCAGTGGTTAGAGTACTGCTTTCATACGGCGGGAGTCATTGGTTCAAATCCAATA  66
+              ||||||||||||| ||||||  ||  |  || ||||  |||||| ||||||||||| |||
+Sbjct  32258  TTAACTCAGTGGT-AGAGTAACGCCATGGTAAGGCGTAAGTCATCGGTTCAAATCCGATA  32316
+
+
+>HG975525.1 Solanum lycopersicum chloroplast, complete genome
+Length=155461
+
+ Score = 132 bits (146),  Expect = 2e-31
+ Identities = 73/73 (100%), Gaps = 0/73 (0%)
+ Strand=Plus/Plus
+
+Query  1      ACCTACTTAACTCAGTGGTTAGAGTACTGCTTTCATACGGCGGGAGTCATTGGTTCAAAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  53682  ACCTACTTAACTCAGTGGTTAGAGTACTGCTTTCATACGGCGGGAGTCATTGGTTCAAAT  53741
+
+Query  61     CCAATAGTAGGTA  73
+              |||||||||||||
+Sbjct  53742  CCAATAGTAGGTA  53754
+
+
+ Score = 51.8 bits (56),  Expect = 6e-07
+ Identities = 48/60 (80%), Gaps = 1/60 (2%)
+ Strand=Plus/Plus
+
+Query  7      TTAACTCAGTGGTTAGAGTACTGCTTTCATACGGCGGGAGTCATTGGTTCAAATCCAATA  66
+              ||||||||||||| ||||||  ||  |  || ||||  |||||| ||||||||||| |||
+Sbjct  32341  TTAACTCAGTGGT-AGAGTAACGCCATGGTAAGGCGTAAGTCATCGGTTCAAATCCGATA  32399
+
+
+>HG975452.1 Solanum pennellii chloroplast, complete genome
+Length=155381
+
+ Score = 132 bits (146),  Expect = 2e-31
+ Identities = 73/73 (100%), Gaps = 0/73 (0%)
+ Strand=Plus/Plus
+
+Query  1      ACCTACTTAACTCAGTGGTTAGAGTACTGCTTTCATACGGCGGGAGTCATTGGTTCAAAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  53493  ACCTACTTAACTCAGTGGTTAGAGTACTGCTTTCATACGGCGGGAGTCATTGGTTCAAAT  53552
+
+Query  61     CCAATAGTAGGTA  73
+              |||||||||||||
+Sbjct  53553  CCAATAGTAGGTA  53565
+
+
+ Score = 51.8 bits (56),  Expect = 6e-07
+ Identities = 48/60 (80%), Gaps = 1/60 (2%)
+ Strand=Plus/Plus
+
+Query  7      TTAACTCAGTGGTTAGAGTACTGCTTTCATACGGCGGGAGTCATTGGTTCAAATCCAATA  66
+              ||||||||||||| ||||||  ||  |  || ||||  |||||| ||||||||||| |||
+Sbjct  32129  TTAACTCAGTGGT-AGAGTAACGCCATGGTAAGGCGTAAGTCATCGGTTCAAATCCGATA  32187
+
+
+>AK329883.1 Solanum lycopersicum cDNA, clone: LEFL3160A04, HTC in root
+Length=1532
+
+ Score = 132 bits (146),  Expect = 2e-31
+ Identities = 73/73 (100%), Gaps = 0/73 (0%)
+ Strand=Plus/Minus
+
+Query  1    ACCTACTTAACTCAGTGGTTAGAGTACTGCTTTCATACGGCGGGAGTCATTGGTTCAAAT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  558  ACCTACTTAACTCAGTGGTTAGAGTACTGCTTTCATACGGCGGGAGTCATTGGTTCAAAT  499
+
+Query  61   CCAATAGTAGGTA  73
+            |||||||||||||
+Sbjct  498  CCAATAGTAGGTA  486
+
+
+  Database: Nucleotide collection (nt)
+    Posted date:  Feb 15, 2021  5:23 PM
+  Number of letters in database: 49,176,766
+  Number of sequences in database:  25,031
+
+Lambda      K        H
+   0.634    0.408    0.912 
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+Matrix: blastn matrix:2 -3
+Gap Penalties: Existence: 5, Extension: 2
+Number of Sequences: 25031
+Number of Hits to DB: 391
+Number of extensions: 0
+Number of successful extensions: 0
+Number of sequences better than 0.001: 0
+Number of HSP's better than 0.001 without gapping: 0
+Number of HSP's gapped: 0
+Number of HSP's successfully gapped: 0
+Length of query: 73
+Length of database: 49176766
+Length adjustment: 24
+Effective length of query: 49
+Effective length of database: 48576022
+Effective search space: 2380225078
+Effective search space used: 2380225078
+A: 0
+X1: 22 (20.1 bits)
+X2: 33 (29.8 bits)
+X3: 110 (99.2 bits)
+S1: 28 (26.5 bits)
+S2: 45 (41.9 bits)
+
+

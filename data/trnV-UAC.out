@@ -1,0 +1,84 @@
+BLASTN 2.11.0+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+RID: 333RTCBA013
+
+
+Database: Nucleotide collection (nt)
+           67,819,645 sequences; 387,457,630,076 total letters
+Query= trnV-UAC
+
+Length=38
+
+
+                                                                   Score     E     Max
+Sequences producing significant alignments:                       (Bits)  Value  Ident
+
+HG975525.1 Solanum lycopersicum chloroplast, complete genome       69.8    8e-13  100%        
+HG975452.1 Solanum pennellii chloroplast, complete genome          69.8    8e-13  100%        
+
+ALIGNMENTS
+>HG975525.1 Solanum lycopersicum chloroplast, complete genome
+Length=155461
+
+ Score = 69.8 bits (76),  Expect = 8e-13
+ Identities = 38/38 (100%), Gaps = 0/38 (0%)
+ Strand=Plus/Minus
+
+Query  1      AGGGCTATAGCTCAGTTGGTAGAGCAACTCGTTTACAC  38
+              ||||||||||||||||||||||||||||||||||||||
+Sbjct  53492  AGGGCTATAGCTCAGTTGGTAGAGCAACTCGTTTACAC  53455
+
+
+>HG975452.1 Solanum pennellii chloroplast, complete genome
+Length=155381
+
+ Score = 69.8 bits (76),  Expect = 8e-13
+ Identities = 38/38 (100%), Gaps = 0/38 (0%)
+ Strand=Plus/Minus
+
+Query  1      AGGGCTATAGCTCAGTTGGTAGAGCAACTCGTTTACAC  38
+              ||||||||||||||||||||||||||||||||||||||
+Sbjct  53303  AGGGCTATAGCTCAGTTGGTAGAGCAACTCGTTTACAC  53266
+
+
+  Database: Nucleotide collection (nt)
+    Posted date:  Feb 15, 2021  5:23 PM
+  Number of letters in database: 49,176,766
+  Number of sequences in database:  25,031
+
+Lambda      K        H
+   0.634    0.408    0.912 
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+Matrix: blastn matrix:2 -3
+Gap Penalties: Existence: 5, Extension: 2
+Number of Sequences: 25031
+Number of Hits to DB: 150
+Number of extensions: 2
+Number of successful extensions: 2
+Number of sequences better than 0.001: 0
+Number of HSP's better than 0.001 without gapping: 0
+Number of HSP's gapped: 2
+Number of HSP's successfully gapped: 0
+Length of query: 38
+Length of database: 49176766
+Length adjustment: 22
+Effective length of query: 16
+Effective length of database: 48626084
+Effective search space: 778017344
+Effective search space used: 778017344
+A: 0
+X1: 22 (20.1 bits)
+X2: 33 (29.8 bits)
+X3: 110 (99.2 bits)
+S1: 28 (26.5 bits)
+S2: 43 (40.1 bits)
+
+

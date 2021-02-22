@@ -1,0 +1,923 @@
+BLASTN 2.11.0+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+RID: 333RCSWF01R
+
+
+Database: Nucleotide collection (nt)
+           67,819,645 sequences; 387,457,630,076 total letters
+Query= rps14
+
+Length=303
+
+
+                                                                   Score     E      Max
+Sequences producing significant alignments:                       (Bits)  Value   Ident
+
+KY887589.1 Solanum pennellii chloroplast, complete genome          522     7e-148  100%        
+KY887588.1 Solanum lycopersicum chloroplast, complete genome       522     7e-148  100%        
+KY887587.1 Solanum lycopersicum chloroplast, complete genome       522     7e-148  100%        
+KP117027.1 Solanum pimpinellifolium isolate TS-415 chloroplast...  522     7e-148  100%        
+KP117026.1 Solanum peruvianum isolate TS-404 chloroplast, comp...  522     7e-148  100%        
+KP117025.1 Solanum neorickii isolate TS-146 chloroplast, compl...  522     7e-148  100%        
+KP117024.1 Solanum lycopersicum isolate TS-321 chloroplast, co...  522     7e-148  100%        
+KP117022.1 Solanum galapagense isolate TS-208 chloroplast, com...  522     7e-148  100%        
+KP117021.1 Solanum chilense isolate TS-408 chloroplast, comple...  522     7e-148  100%        
+KP117020.1 Solanum cheesmaniae isolate TS-199 chloroplast, com...  522     7e-148  100%        
+KP331414.1 Solanum lycopersicum chloroplast, complete genome       522     7e-148  100%        
+HG975525.1 Solanum lycopersicum chloroplast, complete genome       522     7e-148  100%        
+HG975452.1 Solanum pennellii chloroplast, complete genome          522     7e-148  100%        
+MT811798.1 Solanum pimpinellifolium chloroplast, complete genome   522     7e-148  100%        
+MT811797.1 Solanum neorickii chloroplast, complete genome          522     7e-148  100%        
+MT811796.1 Solanum lycopersicum cultivar Vesuviano pizzo chlor...  522     7e-148  100%        
+MT811795.1 Solanum lycopersicum cultivar Vesuvio foglia riccia...  522     7e-148  100%        
+MT811794.1 Solanum lycopersicum cultivar Vesuvio 2001 chloropl...  522     7e-148  100%        
+MT811793.1 Solanum lycopersicum cultivar Pollena chloroplast, ...  522     7e-148  100%        
+MT811792.1 Solanum lycopersicum cultivar Piennolo giallo chlor...  522     7e-148  100%        
+MT811791.1 Solanum lycopersicum cultivar PDS chloroplast, comp...  522     7e-148  100%        
+MT811790.1 Solanum lycopersicum cultivar Corbarino chloroplast...  522     7e-148  100%        
+AM087200.3 Solanum lycopersicum complete chloroplast genome, c...  522     7e-148  100%        
+DQ347959.1 Solanum lycopersicum cultivar LA3023 chloroplast, c...  522     7e-148  100%        
+KP117023.1 Solanum habrochaites isolate TS-407 chloroplast, co...  517     3e-146  100%        
+KY050722.1 Solanum lycopersicum ribosomal protein S14 (rps14) ...  480     2e-135  97%         
+
+ALIGNMENTS
+>KY887589.1 Solanum pennellii chloroplast, complete genome
+Length=155254
+
+ Score = 522 bits (578),  Expect = 7e-148
+ Identities = 303/303 (100%), Gaps = 0/303 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37759  ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  37700
+
+Query  61     CATTCGATTCGTCGATCCTCaaaaaaaGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37699  CATTCGATTCGTCGATCCTCAAAAAAAGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  37640
+
+Query  121    TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37639  TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  37580
+
+Query  181    CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37579  CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  37520
+
+Query  241    CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37519  CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  37460
+
+Query  301    TAA  303
+              |||
+Sbjct  37459  TAA  37457
+
+
+>KY887588.1 Solanum lycopersicum chloroplast, complete genome
+Length=155446
+
+ Score = 522 bits (578),  Expect = 7e-148
+ Identities = 303/303 (100%), Gaps = 0/303 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37971  ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  37912
+
+Query  61     CATTCGATTCGTCGATCCTCaaaaaaaGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37911  CATTCGATTCGTCGATCCTCAAAAAAAGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  37852
+
+Query  121    TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37851  TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  37792
+
+Query  181    CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37791  CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  37732
+
+Query  241    CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37731  CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  37672
+
+Query  301    TAA  303
+              |||
+Sbjct  37671  TAA  37669
+
+
+>KY887587.1 Solanum lycopersicum chloroplast, complete genome
+Length=155460
+
+ Score = 522 bits (578),  Expect = 7e-148
+ Identities = 303/303 (100%), Gaps = 0/303 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37968  ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  37909
+
+Query  61     CATTCGATTCGTCGATCCTCaaaaaaaGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37908  CATTCGATTCGTCGATCCTCAAAAAAAGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  37849
+
+Query  121    TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37848  TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  37789
+
+Query  181    CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37788  CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  37729
+
+Query  241    CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37728  CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  37669
+
+Query  301    TAA  303
+              |||
+Sbjct  37668  TAA  37666
+
+
+>KP117027.1 Solanum pimpinellifolium isolate TS-415 chloroplast, complete 
+genome
+Length=155442
+
+ Score = 522 bits (578),  Expect = 7e-148
+ Identities = 303/303 (100%), Gaps = 0/303 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37970  ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  37911
+
+Query  61     CATTCGATTCGTCGATCCTCaaaaaaaGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37910  CATTCGATTCGTCGATCCTCAAAAAAAGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  37851
+
+Query  121    TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37850  TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  37791
+
+Query  181    CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37790  CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  37731
+
+Query  241    CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37730  CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  37671
+
+Query  301    TAA  303
+              |||
+Sbjct  37670  TAA  37668
+
+
+>KP117026.1 Solanum peruvianum isolate TS-404 chloroplast, complete genome
+Length=155561
+
+ Score = 522 bits (578),  Expect = 7e-148
+ Identities = 303/303 (100%), Gaps = 0/303 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37990  ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  37931
+
+Query  61     CATTCGATTCGTCGATCCTCaaaaaaaGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37930  CATTCGATTCGTCGATCCTCAAAAAAAGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  37871
+
+Query  121    TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37870  TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  37811
+
+Query  181    CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37810  CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  37751
+
+Query  241    CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37750  CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  37691
+
+Query  301    TAA  303
+              |||
+Sbjct  37690  TAA  37688
+
+
+>KP117025.1 Solanum neorickii isolate TS-146 chloroplast, complete genome
+Length=155513
+
+ Score = 522 bits (578),  Expect = 7e-148
+ Identities = 303/303 (100%), Gaps = 0/303 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37991  ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  37932
+
+Query  61     CATTCGATTCGTCGATCCTCaaaaaaaGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37931  CATTCGATTCGTCGATCCTCAAAAAAAGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  37872
+
+Query  121    TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37871  TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  37812
+
+Query  181    CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37811  CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  37752
+
+Query  241    CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37751  CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  37692
+
+Query  301    TAA  303
+              |||
+Sbjct  37691  TAA  37689
+
+
+>KP117024.1 Solanum lycopersicum isolate TS-321 chloroplast, complete genome
+Length=155452
+
+ Score = 522 bits (578),  Expect = 7e-148
+ Identities = 303/303 (100%), Gaps = 0/303 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37969  ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  37910
+
+Query  61     CATTCGATTCGTCGATCCTCaaaaaaaGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37909  CATTCGATTCGTCGATCCTCAAAAAAAGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  37850
+
+Query  121    TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37849  TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  37790
+
+Query  181    CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37789  CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  37730
+
+Query  241    CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37729  CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  37670
+
+Query  301    TAA  303
+              |||
+Sbjct  37669  TAA  37667
+
+
+>KP117022.1 Solanum galapagense isolate TS-208 chloroplast, complete genome
+Length=155474
+
+ Score = 522 bits (578),  Expect = 7e-148
+ Identities = 303/303 (100%), Gaps = 0/303 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37968  ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  37909
+
+Query  61     CATTCGATTCGTCGATCCTCaaaaaaaGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37908  CATTCGATTCGTCGATCCTCAAAAAAAGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  37849
+
+Query  121    TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37848  TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  37789
+
+Query  181    CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37788  CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  37729
+
+Query  241    CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37728  CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  37669
+
+Query  301    TAA  303
+              |||
+Sbjct  37668  TAA  37666
+
+
+>KP117021.1 Solanum chilense isolate TS-408 chloroplast, complete genome
+Length=155528
+
+ Score = 522 bits (578),  Expect = 7e-148
+ Identities = 303/303 (100%), Gaps = 0/303 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37991  ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  37932
+
+Query  61     CATTCGATTCGTCGATCCTCaaaaaaaGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37931  CATTCGATTCGTCGATCCTCAAAAAAAGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  37872
+
+Query  121    TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37871  TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  37812
+
+Query  181    CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37811  CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  37752
+
+Query  241    CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37751  CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  37692
+
+Query  301    TAA  303
+              |||
+Sbjct  37691  TAA  37689
+
+
+>KP117020.1 Solanum cheesmaniae isolate TS-199 chloroplast, complete genome
+Length=155520
+
+ Score = 522 bits (578),  Expect = 7e-148
+ Identities = 303/303 (100%), Gaps = 0/303 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37969  ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  37910
+
+Query  61     CATTCGATTCGTCGATCCTCaaaaaaaGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37909  CATTCGATTCGTCGATCCTCAAAAAAAGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  37850
+
+Query  121    TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37849  TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  37790
+
+Query  181    CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37789  CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  37730
+
+Query  241    CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37729  CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  37670
+
+Query  301    TAA  303
+              |||
+Sbjct  37669  TAA  37667
+
+
+>KP331414.1 Solanum lycopersicum chloroplast, complete genome
+Length=155605
+
+ Score = 522 bits (578),  Expect = 7e-148
+ Identities = 303/303 (100%), Gaps = 0/303 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37890  ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  37831
+
+Query  61     CATTCGATTCGTCGATCCTCaaaaaaaGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37830  CATTCGATTCGTCGATCCTCAAAAAAAGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  37771
+
+Query  121    TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37770  TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  37711
+
+Query  181    CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37710  CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  37651
+
+Query  241    CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37650  CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  37591
+
+Query  301    TAA  303
+              |||
+Sbjct  37590  TAA  37588
+
+
+>HG975525.1 Solanum lycopersicum chloroplast, complete genome
+Length=155461
+
+ Score = 522 bits (578),  Expect = 7e-148
+ Identities = 303/303 (100%), Gaps = 0/303 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37973  ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  37914
+
+Query  61     CATTCGATTCGTCGATCCTCaaaaaaaGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37913  CATTCGATTCGTCGATCCTCAAAAAAAGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  37854
+
+Query  121    TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37853  TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  37794
+
+Query  181    CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37793  CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  37734
+
+Query  241    CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37733  CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  37674
+
+Query  301    TAA  303
+              |||
+Sbjct  37673  TAA  37671
+
+
+>HG975452.1 Solanum pennellii chloroplast, complete genome
+Length=155381
+
+ Score = 522 bits (578),  Expect = 7e-148
+ Identities = 303/303 (100%), Gaps = 0/303 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37763  ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  37704
+
+Query  61     CATTCGATTCGTCGATCCTCaaaaaaaGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37703  CATTCGATTCGTCGATCCTCAAAAAAAGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  37644
+
+Query  121    TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37643  TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  37584
+
+Query  181    CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37583  CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  37524
+
+Query  241    CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37523  CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  37464
+
+Query  301    TAA  303
+              |||
+Sbjct  37463  TAA  37461
+
+
+>MT811798.1 Solanum pimpinellifolium chloroplast, complete genome
+Length=155420
+
+ Score = 522 bits (578),  Expect = 7e-148
+ Identities = 303/303 (100%), Gaps = 0/303 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37952  ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  37893
+
+Query  61     CATTCGATTCGTCGATCCTCaaaaaaaGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37892  CATTCGATTCGTCGATCCTCAAAAAAAGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  37833
+
+Query  121    TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37832  TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  37773
+
+Query  181    CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37772  CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  37713
+
+Query  241    CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37712  CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  37653
+
+Query  301    TAA  303
+              |||
+Sbjct  37652  TAA  37650
+
+
+>MT811797.1 Solanum neorickii chloroplast, complete genome
+Length=155515
+
+ Score = 522 bits (578),  Expect = 7e-148
+ Identities = 303/303 (100%), Gaps = 0/303 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37994  ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  37935
+
+Query  61     CATTCGATTCGTCGATCCTCaaaaaaaGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37934  CATTCGATTCGTCGATCCTCAAAAAAAGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  37875
+
+Query  121    TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37874  TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  37815
+
+Query  181    CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37814  CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  37755
+
+Query  241    CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37754  CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  37695
+
+Query  301    TAA  303
+              |||
+Sbjct  37694  TAA  37692
+
+
+>MT811796.1 Solanum lycopersicum cultivar Vesuviano pizzo chloroplast, complete 
+genome
+Length=155435
+
+ Score = 522 bits (578),  Expect = 7e-148
+ Identities = 303/303 (100%), Gaps = 0/303 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37950  ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  37891
+
+Query  61     CATTCGATTCGTCGATCCTCaaaaaaaGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37890  CATTCGATTCGTCGATCCTCAAAAAAAGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  37831
+
+Query  121    TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37830  TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  37771
+
+Query  181    CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37770  CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  37711
+
+Query  241    CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37710  CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  37651
+
+Query  301    TAA  303
+              |||
+Sbjct  37650  TAA  37648
+
+
+>MT811795.1 Solanum lycopersicum cultivar Vesuvio foglia riccia chloroplast, 
+complete genome
+Length=155435
+
+ Score = 522 bits (578),  Expect = 7e-148
+ Identities = 303/303 (100%), Gaps = 0/303 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37950  ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  37891
+
+Query  61     CATTCGATTCGTCGATCCTCaaaaaaaGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37890  CATTCGATTCGTCGATCCTCAAAAAAAGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  37831
+
+Query  121    TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37830  TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  37771
+
+Query  181    CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37770  CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  37711
+
+Query  241    CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37710  CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  37651
+
+Query  301    TAA  303
+              |||
+Sbjct  37650  TAA  37648
+
+
+>MT811794.1 Solanum lycopersicum cultivar Vesuvio 2001 chloroplast, complete 
+genome
+Length=155435
+
+ Score = 522 bits (578),  Expect = 7e-148
+ Identities = 303/303 (100%), Gaps = 0/303 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37950  ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  37891
+
+Query  61     CATTCGATTCGTCGATCCTCaaaaaaaGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37890  CATTCGATTCGTCGATCCTCAAAAAAAGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  37831
+
+Query  121    TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37830  TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  37771
+
+Query  181    CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37770  CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  37711
+
+Query  241    CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37710  CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  37651
+
+Query  301    TAA  303
+              |||
+Sbjct  37650  TAA  37648
+
+
+>MT811793.1 Solanum lycopersicum cultivar Pollena chloroplast, complete genome
+Length=155435
+
+ Score = 522 bits (578),  Expect = 7e-148
+ Identities = 303/303 (100%), Gaps = 0/303 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37950  ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  37891
+
+Query  61     CATTCGATTCGTCGATCCTCaaaaaaaGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37890  CATTCGATTCGTCGATCCTCAAAAAAAGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  37831
+
+Query  121    TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37830  TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  37771
+
+Query  181    CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37770  CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  37711
+
+Query  241    CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37710  CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  37651
+
+Query  301    TAA  303
+              |||
+Sbjct  37650  TAA  37648
+
+
+>MT811792.1 Solanum lycopersicum cultivar Piennolo giallo chloroplast, complete 
+genome
+Length=155434
+
+ Score = 522 bits (578),  Expect = 7e-148
+ Identities = 303/303 (100%), Gaps = 0/303 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37950  ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  37891
+
+Query  61     CATTCGATTCGTCGATCCTCaaaaaaaGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37890  CATTCGATTCGTCGATCCTCAAAAAAAGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  37831
+
+Query  121    TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37830  TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  37771
+
+Query  181    CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37770  CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  37711
+
+Query  241    CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37710  CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  37651
+
+Query  301    TAA  303
+              |||
+Sbjct  37650  TAA  37648
+
+
+>MT811791.1 Solanum lycopersicum cultivar PDS chloroplast, complete genome
+Length=155435
+
+ Score = 522 bits (578),  Expect = 7e-148
+ Identities = 303/303 (100%), Gaps = 0/303 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37950  ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  37891
+
+Query  61     CATTCGATTCGTCGATCCTCaaaaaaaGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37890  CATTCGATTCGTCGATCCTCAAAAAAAGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  37831
+
+Query  121    TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37830  TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  37771
+
+Query  181    CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37770  CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  37711
+
+Query  241    CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37710  CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  37651
+
+Query  301    TAA  303
+              |||
+Sbjct  37650  TAA  37648
+
+
+>MT811790.1 Solanum lycopersicum cultivar Corbarino chloroplast, complete 
+genome
+Length=155435
+
+ Score = 522 bits (578),  Expect = 7e-148
+ Identities = 303/303 (100%), Gaps = 0/303 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37950  ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  37891
+
+Query  61     CATTCGATTCGTCGATCCTCaaaaaaaGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37890  CATTCGATTCGTCGATCCTCAAAAAAAGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  37831
+
+Query  121    TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37830  TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  37771
+
+Query  181    CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37770  CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  37711
+
+Query  241    CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37710  CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  37651
+
+Query  301    TAA  303
+              |||
+Sbjct  37650  TAA  37648
+
+
+>AM087200.3 Solanum lycopersicum complete chloroplast genome, cultivar IPA-6
+Length=155461
+
+ Score = 522 bits (578),  Expect = 7e-148
+ Identities = 303/303 (100%), Gaps = 0/303 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37973  ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  37914
+
+Query  61     CATTCGATTCGTCGATCCTCaaaaaaaGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37913  CATTCGATTCGTCGATCCTCAAAAAAAGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  37854
+
+Query  121    TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37853  TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  37794
+
+Query  181    CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37793  CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  37734
+
+Query  241    CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37733  CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  37674
+
+Query  301    TAA  303
+              |||
+Sbjct  37673  TAA  37671
+
+
+>DQ347959.1 Solanum lycopersicum cultivar LA3023 chloroplast, complete genome
+Length=155461
+
+ Score = 522 bits (578),  Expect = 7e-148
+ Identities = 303/303 (100%), Gaps = 0/303 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37970  ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  37911
+
+Query  61     CATTCGATTCGTCGATCCTCaaaaaaaGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37910  CATTCGATTCGTCGATCCTCAAAAAAAGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  37851
+
+Query  121    TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37850  TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  37791
+
+Query  181    CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37790  CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  37731
+
+Query  241    CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  300
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37730  CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  37671
+
+Query  301    TAA  303
+              |||
+Sbjct  37670  TAA  37668
+
+
+>KP117023.1 Solanum habrochaites isolate TS-407 chloroplast, complete genome
+Length=155465
+
+ Score = 517 bits (573),  Expect = 3e-146
+ Identities = 302/303 (99%), Gaps = 0/303 (0%)
+ Strand=Plus/Minus
+
+Query  1      ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37976  ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAGGCAAAAATTGGAACAGAAATAT  37917
+
+Query  61     CATTCGATTCGTCGATCCTCaaaaaaaGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37916  CATTCGATTCGTCGATCCTCAAAAAAAGAAATAAGCAAGGTTCCGTCGTTGAGTGACAAA  37857
+
+Query  121    TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37856  TGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCAT  37797
+
+Query  181    CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  37796  CGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGGA  37737
+
+Query  241    CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTGG  300
+              |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  37736  CACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCGGGAGCAACAAGATCAAGTTGG  37677
+
+Query  301    TAA  303
+              |||
+Sbjct  37676  TAA  37674
+
+
+>KY050722.1 Solanum lycopersicum ribosomal protein S14 (rps14) gene, complete 
+cds; chloroplast
+Length=303
+
+ Score = 480 bits (532),  Expect = 2e-135
+ Identities = 296/304 (97%), Gaps = 2/304 (1%)
+ Strand=Plus/Plus
+
+Query  1    ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAAGAAGAG-GCAAAAATTGGAACAGAAATA  59
+            |||||||||||||||||||||||||||||||  ||| | |   ||||||| |||||||||
+Sbjct  1    ATGGCAAGGAAAAGTTTGATTCAGAGGGAGAGCAAGCGAGAGCAAATTGG-ACAGAAATA  59
+
+Query  60   TCATTCGATTCGTCGATCCTCaaaaaaaGAAATAAGCAAGGTTCCGTCGTTGAGTGACAA  119
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  60   TCATTCGATTCGTCGATCCTCAAAAAAAGAAATAAGCAAGGTTCCGTCGTTGAGTGACAA  119
+
+Query  120  ATGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCA  179
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  120  ATGGGAAATTTATGGAAAGTTACAATCCCTACCACGGAATAGTGCACCTACACGCCTTCA  179
+
+Query  180  TCGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGG  239
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  180  TCGACGTTGTTTTTTGACCGGAAGGCCGAGAGCTAACTATCGAGACTTTGGCCTATCCGG  239
+
+Query  240  ACACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTG  299
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  240  ACACATACTTCGTGAAATGGTTCATGCATGTTTGTTGCCAGGAGCAACAAGATCAAGTTG  299
+
+Query  300  GTAA  303
+            ||||
+Sbjct  300  GTAA  303
+
+
+  Database: Nucleotide collection (nt)
+    Posted date:  Jan 31, 2021  6:54 AM
+  Number of letters in database: 49,175,263
+  Number of sequences in database:  25,030
+
+Lambda      K        H
+   0.634    0.408    0.912 
+Gapped
+Lambda      K        H
+   0.625    0.410    0.780 
+Matrix: blastn matrix:2 -3
+Gap Penalties: Existence: 5, Extension: 2
+Number of Sequences: 25030
+Number of Hits to DB: 254
+Number of extensions: 0
+Number of successful extensions: 0
+Number of sequences better than 0.001: 0
+Number of HSP's better than 0.001 without gapping: 0
+Number of HSP's gapped: 0
+Number of HSP's successfully gapped: 0
+Length of query: 303
+Length of database: 49175263
+Length adjustment: 26
+Effective length of query: 277
+Effective length of database: 48524483
+Effective search space: 13441281791
+Effective search space used: 13441281791
+A: 0
+X1: 22 (20.1 bits)
+X2: 33 (29.8 bits)
+X3: 110 (99.2 bits)
+S1: 28 (26.5 bits)
+S2: 47 (43.7 bits)
+
+
