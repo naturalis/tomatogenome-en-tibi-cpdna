@@ -1,0 +1,103 @@
+Species	Marker	AN	Source (Paper/BOLD)	Comments
+S. arcanum	rbcL	KX086696	NCBI	Peru
+S. cheesmaniae	Whole cpDNA	KP117020	NCBI	"Ecuador (Retrieved from Lin et al. 2014), same isolate with the next one"
+S. cheesmaniae	Whole cpDNA	NC_026876	NCBI	
+S. cheesmaniae	rbcL	KX086700	NCBI	Galapagos islands (Tomato Genetics Resource Center at the University of California)
+S. cheesmaniae	trnL-trnF intergenic region and tRNA-Phe	AB515399	NCBI	
+S. cheesmaniae	trnL-trnF intergenic region and tRNA-Phe	AB515398	NCBI	
+S. cheesmaniae	trnL-trnF intergenic region and tRNA-Phe	AB515397	NCBI	
+S. cheesmaniae	trnT-trnL intergenic region	AB515377	NCBI	
+S. cheesmaniae	trnT-trnL intergenic region	AB515378	NCBI	
+S. cheesmaniae	trnT-trnL intergenic region	AB515379	NCBI	
+S. chilense	Whole cpDNA	KP117021	"Tamburino et al. 2020, Wu 2015"	"Peru (Retrieved from Lin et al. 2014), same isolate with the next one"
+S. chilense	Whole cpDNA	NC_026877 	"Wu, 2015"	
+S. chilense	rbcL	FJ914175                	NCBI	M. Dillon8717 (F)
+S. chilense	atpB	FJ914156	NCBI	M. Dillon8717 (F)
+S. chilense	ndhF	FJ914031	NCBI	M. Dillon8717 (F)
+S. chilense	rbcL	KX086686                	NCBI	Peru
+S. chilense	trnL - trnF spacer and partial tRNA-Phe	AB515412                 	NCBI	Peru/Chile
+S. chilense	partial trnT-trnL spacer	AB515392                 	NCBI	Peru/Chile
+S. chilense	alpha-ATPase mRNA	DQ140177                 	NCBI	M. Dillon8717 (F)
+S. chilense	"rps16, rps16-trnK spacer"	HQ216029                 	NCBI	M. Dillon8717 (F)
+S. chilense	trnC-psbM spacer	HQ216074                	NCBI	M. Dillon8717 (F)
+S. chilense	"psbA, psbA-trnH spacer"	HQ216188                 	NCBI	M. Dillon8717 (F)
+S. chmielewskii	rbcL	KX086695 	NCBI	Peru
+S. galapagense	rbcL	KX086699	NCBI	
+S. galapagense	Whole cpDNA	KP117022	NCBI	"Ecuador, same isolate with the next one"
+S. galapagense	Whole cpDNA	NC_026878	NCBI	
+S. habrochaites	Whole cpDNA	KP117023	NCBI	"Ecuador, same isolate with the next one"
+S. habrochaites	Whole cpDNA	NC_026879	NCBI	
+S. habrochaites	rbcL	KX086697	NCBI	Peru
+S. lycopersicum 	trnL - trnF spacer 	AY098703.1	NCBI	
+S. lycopersicum 	ndhF	U08921	NCBI	
+S. lycopersicum 	atpB-rbcL intergenic spacer	MT373812.1	NCBI	
+S. lycopersicum 	rbcL	KX086693                	NCBI	Peru
+S. lycopersicum 	rbcL	KX086691                	NCBI	Chile
+S. lycopersicum 	rbcL	KP827661                 	NCBI	
+S. lycopersicum 	psbA - trnH spacer	HG963710                 	NCBI	Nicaragua (Mesoamerica)
+S. lycopersicum 	rpoB	JX856304                 	NCBI	
+S. lycopersicum 	rbcL	JX856325                 	NCBI	
+S. lycopersicum 	"psbA - trnH spacer, psbA gene partial"	JX856346                 	NCBI	
+S. lycopersicum 	trnT - trnL spacer	AB515394                 	NCBI	Mexico
+S. lycopersicum 	trnL - trnF spacer and partial tRNA-Phe	AB515414                 	NCBI	Mexico
+S. lycopersicum 	trnE - trnT spacer	AF408746                 	NCBI	
+S. lycopersicum 	Whole cpDNA	NC_007898.3	"Wu, 2015"	
+S. lycopersicum var. cerasiforme	Whole cpDNA	KY887587; KY887588	Tamburino et al. 2020	Retrieved
+S. lycopersicum var. cerasiforme	trnL-trnF intergenic region and tRNA-Phe	AB515413                 	NCBI	
+S. lycopersicum var. cerasiforme	trnT-trnL intergenic region	AB515393                 	NCBI	
+S. lycopersicum var. cerasiforme	trnT - trnL spacer	AB515393                 	NCBI	
+S. lycopersicum var. cerasiforme	trnL - trnF spacer and partial tRNA-Phe	AB515413                 	NCBI	
+S. lycopersicum var. lycopersicum	Whole cpDNA	HG975525	Tamburino et al. 2020	Retrieved
+S. lycopersicum var. lycopersicum	Whole cpDNA	MT811790	Tamburino et al. 2020	Originated in Italy
+S. lycopersicum var. lycopersicum	Whole cpDNA	MT811791	Tamburino et al. 2020	Originated in Italy
+S. lycopersicum var. lycopersicum	Whole cpDNA	MT811792	Tamburino et al. 2020	Originated in Italy
+S. lycopersicum var. lycopersicum	Whole cpDNA	MT811793	Tamburino et al. 2020	Originated in Italy
+S. lycopersicum var. lycopersicum	Whole cpDNA	MT811794	Tamburino et al. 2020	Originated in Italy
+S. lycopersicum var. lycopersicum	Whole cpDNA	MT811795	Tamburino et al. 2020	Originated in Italy
+S. lycopersicum var. lycopersicum	Whole cpDNA	MT811796	Tamburino et al. 2020	Originated in Italy
+S. lycopersicum var. lycopersicum	matK	SDH2056-14	BOLD	California
+S. lycopersicum var. lycopersicum	rbcL	KX086703	NCBI	Commercial isolate (ROMA VF)
+S. neorickii	Whole cpDNA	KP117025	"Tamburino et al. 2020, Wu 2015"	"Peru (Retrieved from Lin et al. 2014), same isolate with the next one"
+S. neorickii	Whole cpDNA	NC_026880	"Wu, 2015"	
+S. neorickii	Whole cpDNA	MT811797	Tamburino et al. 2020	Originated in Italy
+S. neorickii	rbcL	KX086694	NCBI	Tomato Genetics Resource Center at the University of California
+S. pennellii	Whole cpDNA	HG975452	Tamburino et al. 2020	Retrieved
+S. pennellii	rbcL	FJ914174                	NCBI	
+S. pennellii	atpB	FJ914155                	NCBI	
+S. pennellii	ndhF	FJ914030                	NCBI	
+S. pennellii	rbcL	KX086685 	NCBI	Peru
+S. pennellii	Whole cpDNA	KY887589	NCBI	
+S. pennellii	Whole cpDNA	NC_035742 	"Wu, 2015"	
+S. pennellii var. puberulum	rbcL	KX086687                	NCBI	Peru
+S. peruvianum	Whole cpDNA	KP117026	"Tamburino et al. 2020, Wu 2015"	"Peru (Retrieved from Lin et al. 2014), same isolate with the next one"
+S. peruvianum	Whole cpDNA	NC_026881             	"Wu, 2015"	
+S. peruvianum	matK	SDH2060-14	BOLD	California
+S. peruvianum	trnL - trnF spacer and partial tRNA-Phe	AB515408 	NCBI	Peru/Chile
+S. peruvianum	trnL - trnF spacer and partial tRNA-Phe	AB515409	NCBI	Peru/Chile
+S. peruvianum	trnL - trnF spacer and partial tRNA-Phe	AB515410	NCBI	Peru/Chile
+S. peruvianum	trnL - trnF spacer and partial tRNA-Phe	AB515411	NCBI	Peru/Chile
+S. peruvianum	partial trnT-trnL spacer	AB515388	NCBI	Peru/Chile
+S. peruvianum	partial trnT-trnL spacer	AB515389	NCBI	Peru/Chile
+S. peruvianum	partial trnT-trnL spacer	AB515390	NCBI	Peru/Chile
+S. peruvianum	partial trnT-trnL spacer	AB515391                 	NCBI	Peru/Chile
+S. peruvianum	partial trnT-trnE spacer	AF408747                 	NCBI	
+S. peruvianum	rpoB	JX856295                 	NCBI	
+S. peruvianum	psbA	JX856337                 	NCBI	
+S. peruvianum	rbcL	JX856316.1	NCBI	
+S. peruvianum	rbcL	KX086698.1	NCBI	Peru
+S. pimpinellifolium	Whole cpDNA	KP117027	"Tamburino et al. 2020, Wu 2015"	"Peru (Retrieved from Lin et al. 2014), same isolate with the next one"
+S. pimpinellifolium	Whole cpDNA	NC_026882 	"Wu, 2015"	
+S. pimpinellifolium	atpB-rbcL spacer	MT373813                 	NCBI	
+S. pimpinellifolium	rbcL	KX086692 	NCBI	Peru
+S. pimpinellifolium	rbcL	KP827662                 	NCBI	cultivar NARC 19895
+S. pimpinellifolium	trnL - trnF spacer and partial tRNA-Phe	AB515415                 	NCBI	
+S. pimpinellifolium	trnL - trnF spacer and partial tRNA-Phe	AB515402                 	NCBI	
+S. pimpinellifolium	trnL - trnF spacer and partial tRNA-Phe	AB515401                 	NCBI	
+S. pimpinellifolium	trnL - trnF spacer and partial tRNA-Phe	AB515400                 	NCBI	
+S. pimpinellifolium	partial trnT-trnL spacer	AB515395                 	NCBI	
+S. pimpinellifolium	partial trnT-trnL spacer	AB515382                 	NCBI	
+S. pimpinellifolium	partial trnT-trnL spacer	AB515381                 	NCBI	
+S. pimpinellifolium	partial trnT-trnL spacer	AB515380                 	NCBI	
+S. pimpinellifolium	atpB-rbcL spacer	AF397079                 	NCBI	
+S. pimpinellifolium	ndhF-rpl32 intergenic spacer	KF055429	NCBI	Pakistan
+S. pimpinellifolium	Whole cpDNA	MT811798	NCBI	Peru
