@@ -2,4 +2,4 @@
 
 The chloroplast genome of the ancient *En Tibi* tomato
 
-- Documentation
+- [Documentation](https://github.com/naturalis/tomatogenome-en-tibi-cpdna/tree/main/data)
