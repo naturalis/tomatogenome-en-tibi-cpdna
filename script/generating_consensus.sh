@@ -1,1 +1,0 @@
-samtools mpileup -uf Solanum_lycopersicum_NC_007898.fa *accession_number*.markdup.bam | bcftools call -c | vcfutils.pl vcf2fq > cns.fq
