@@ -11,4 +11,4 @@ This directory contains sequence data in genbank and fasta format:
 - [query.fasta](query.fasta) contains the genes of the chloroplast genome as separate records in
   a fasta file. This is useful as input for BLAST searches to discover cpDNA markers at NCBI.
   
-  Also, it contains the [pipeline] (Pipeline.md) of the whole analysis.
+  Also, it contains the [pipeline](Pipeline.md) of the whole analysis.
