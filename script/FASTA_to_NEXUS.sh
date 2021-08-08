@@ -15,5 +15,5 @@ cd /home/vasia.kakakiou/samtools/bin/PGD/
 
 for file in /home/vasia.kakakiou/samtools/bin/Alignments/*.fasta
 do
-java -Xmx5g -jar /home/vasia.kakakiou/samtools/bin/PGD/PGDSpider2-cli.jar -inputfile "$file" -outputfile "${file%.fasta}.nexus" -inputformat FASTA -outputformat NEXUS -spid FASTA_to_NEXUS.spid
+java -Xmx5g -jar /home/vasia.kakakiou/samtools/bin/PGD/PGDSpider2-cli.jar -inputfile "$file" -outputfile "${file%.fasta}.nex" -inputformat FASTA -outputformat NEXUS -spid FASTA_to_NEXUS.spid
 done
