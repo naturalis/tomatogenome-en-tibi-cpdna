@@ -1,4 +1,4 @@
-Data
+Doc
 ====
 
 This directory contains sequence data in genbank and fasta format:
