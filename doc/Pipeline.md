@@ -86,7 +86,11 @@
 
 ## 12. Alignment
 
+       #MUSCLE for DNA markers
        muscle -in *input*.fasta -out *output*.fasta 
+       
+       #MAFFT for whole genomes
+       mafft --auto Genomes.fasta > Genomes_aligned.fasta
 
 ## 13. Convert FASTA to NEXUS
 
