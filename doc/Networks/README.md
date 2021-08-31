@@ -18,8 +18,8 @@ check that the traits (regions in our case) are recognized correctly and the qua
 'Median Joining Network' (epsilon=0) to construct the haplotype networks.
 
 
-Using the graphical interface, we reorient the graph and its terminal edges to reduce 
-branch and label overlaps and optimize for landscape orientation of the main graph.
+Using the graphical interface, we move the terminal edges to reduce branch and label overlaps 
+and optimize for landscape orientation of the main graph.
 Exporting produces the files:
 
 - `Network_concatenated_regions.pdf`
