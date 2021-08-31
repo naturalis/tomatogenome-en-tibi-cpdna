@@ -15,7 +15,7 @@ This step refers to operations on the files `concatenated_for_network.nex` and `
 
 In PopART we select `nex` to import the alignment of the accessions along with the trait table in nexus format. From the window on the left we
 check that the traits (regions in our case) are recognized correctly and the quality of the alignment. After that, we click on 'Network' and 
-'Median Joining Network' to construct the haplotype networks.
+'Median Joining Network' (epsilon=0) to construct the haplotype networks.
 
 
 Using the graphical interface, we reorient the graph and its terminal edges to reduce 
